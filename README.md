@@ -1,4 +1,4 @@
-This program simulates the implementation of a distributed NoSQL database.
+Simulation of a distributed NoSQL database.
 
 Commands:
 
